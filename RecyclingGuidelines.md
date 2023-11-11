@@ -45,6 +45,12 @@
 * Ink cartridges
 * Electronics
 * Batteries except for alkaine batteries
+* Appliances
+* Tires
+* Scrap Metal
+* Hazardous Waste
+* Wood & Pallets
+* Yard Waste
 
 ## Absolutely cannot recyle
 * Window glass
