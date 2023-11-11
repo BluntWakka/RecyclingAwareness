@@ -63,6 +63,7 @@
 * Tissues or paper towels
 * Any medical waste inclusing syringes
 * Hangers
+* Any sort of presecription drug that does not have specific instructions for disposal (can also donate if there is a return program for the drug)
 
 ## Things you absolutely cannot trash
 * TV's
@@ -74,6 +75,17 @@
 * Speakers
 * E-Readers such as a kindles
 
+## HHW's, must be collected at HHW events
+* Items containing mercury
+* Car batteries
+* Car related fluids
+* Any sort of fuel such as gasoline or propane
+* Herbicides
+* Pesticides
+* Fertilizers
+* Turpentine
+* Adhesives
+* Polish for floors or furniture
 
 ## Locations you can drop off or dispose of used items
 * Better World Books                                                                                    
