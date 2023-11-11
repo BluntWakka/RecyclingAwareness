@@ -66,4 +66,22 @@
 * Keyboards 
 * Printers
 * Speakers
-* E-Readers such as a kindleS
+* E-Readers such as a kindles
+
+
+## Locations you can drop off or dispose of used items
+* Better World Books                                                                                    
+* Goodwill                                                                                                   
+* ReStore, Habitat for Humanity                                                                   
+* Planet Aid                                                                                                   
+* Salvation Army                                                                                          
+* Soles 4 Souls
+* Clean Earth 
+* DRC Technologies 
+* GER Solutions
+* Best Buy   
+* Dell Reconnect
+* Staples
+* Transfer Stations
+* Municipal Recycling Drop-Off Centers
+* Municipal Yard Waste Centers
