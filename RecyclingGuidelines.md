@@ -29,10 +29,12 @@
 * Food boxes
 
 ## Glass
-* Any glass that is cleaned and not broken
+* Any drinking glass that is cleaned and not broken
 
 
-## Conditional Recyling (Bring to a recylcing facitlity in person, not curbside services)
+# Bring to in person facility
+
+## Conditional Recyling
 * Food Waste
 * Lightbulbs
 * Plastic bags
